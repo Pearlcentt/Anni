@@ -57,6 +57,18 @@
 	font-size: 19px;
 }
 
+#button12{
+	background-color:rgb(35, 69, 117);
+	border: none;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 98%;
+	left: 98%;
+	padding: 6px 15px;
+	font-size: 9px;
+	font-weight: bold;
+}
+
 #heartTxt{
 	position: absolute;
 	display: table;
